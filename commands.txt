@@ -1,0 +1,21 @@
+    1  git config -- global user.name "Vadyar1971"
+    2  git config --global user.name "Vadyar1971"
+    3  git config --global user.email "vadrogozhin46@gmail.com
+    4  git config --global user.email 
+    5  git config --global user.name 
+    6  ls
+    7  nano intro.txt
+    8  cat intro.txt
+    9  echo "493500Vadim" > pass.txt
+   10  ls
+   11  git init
+   12  git add.
+   13  git add .
+   14  git status
+   15  git commit -m "Add intro of book"
+   16  git log
+   17  git remote add origin https://github.com/Vadyar1971/My-book.git
+   18  git remote -v
+   19  git push
+   20  git push -u origin main
+   21  history > commands.txt

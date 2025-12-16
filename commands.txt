@@ -19,3 +19,50 @@
    19  git push
    20  git push -u origin main
    21  history > commands.txt
+   22  git status
+   23  git add .
+   24  git commit -m "Add comands"
+   25  git push
+   26  code .
+   27  nano chapter_1.txt
+   28  git add .
+   29  git commit -m "Add chapter_1"
+   30  git push
+   31  nano chapter_1.txt
+   32  git add .
+   33  git commit -m "Update chapter_1"
+   34  git log
+   35  git push
+   36  git log
+   37  git log --one line
+   38  git log --oneline
+   39  git revert d01e41d
+   40  git log
+   41  ls
+   42  cat chapter_1.txt
+   43  git push
+   44  nano readme.md
+   45  add .
+   46  git add .
+   47  git commit -m "Add readme"
+   48  git push
+   49  touch future_chapters.txt
+   50  ls
+   51  git add .
+   52  git commit -m "Add future_chapters"
+   53  git push
+   54  git log --oneline
+   55  git reset --soft d6a7206
+   56  git log --oneline
+   57  git status
+   58  git restore --staged future_chapters.txt
+   59  git status
+   60  ls
+   61  nano.gitignore
+   62  nano .gitignore
+   63  git status
+   64  git add .
+   65  git commit -m "ADD gitignore"
+   66  git push
+   67  git push --force
+   68  history > commands.txt
